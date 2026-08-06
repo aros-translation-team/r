@@ -1,0 +1,64 @@
+## version $VER: R.catalog 2.0 (06.08.2026)
+## language português
+## codeset 0
+;
+MSG_APP_TITLE
+R
+; R
+;
+MSG_APP_DESCRIPTION
+Gerador de GUI
+; GUI Generator
+;
+MSG_WIN_TITLE
+R : %s
+; R : %s
+;
+MSG_OK
+OK
+; OK
+;
+MSG_CANCEL
+Cancelar
+; Cancel
+;
+MSG_ERROR_ALLOCATE
+Não é possível alocar a struct Req\n
+; Can't allocate struct Req\n
+;
+MSG_ERROR_RETURN
+\"%s\" falhou, código de retorno %ld\n
+; \"%s\" failed, return code %ld\n
+;
+MSG_ERROR_POOL
+Não é possível criar o poolmem\n
+; Can't create poolmem\n
+;
+MSG_ERROR_STRUCT
+Não é possível alocar a struct Req\n
+; Can't allocate struct Req\n
+;
+MSG_ERROR_ARGS
+Falha ao analisar os argumentos\n
+; Failed to parse arguments\n
+;
+MSG_ERROR_NOTFOUND
+Comando não encontrado\n
+; Command not found\n
+;
+MSG_ERROR_TMPLT_GET
+Falha ao obter o template\n
+; Failed to get template\n
+;
+MSG_ERROR_TMPLT_PARSE
+Falha ao analisar o template\n
+; Failed to parse the template\n
+;
+MSG_ERROR_GUI
+Falha ao criar o objecto da aplicação\n
+; Failed to create application object\n
+;
+MSG_ERROR_DEFAULTS
+Falha ao definir os valores por defeito\n
+; Failed to set the default values\n
+;

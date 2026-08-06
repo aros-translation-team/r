@@ -1,0 +1,64 @@
+## version $VER: R.catalog 2.0 (06.08.2026)
+## language polski
+## codeset 5
+;
+MSG_APP_TITLE
+R
+; R
+;
+MSG_APP_DESCRIPTION
+Generator GUI
+; GUI Generator
+;
+MSG_WIN_TITLE
+R : %s
+; R : %s
+;
+MSG_OK
+OK
+; OK
+;
+MSG_CANCEL
+Poniechaj
+; Cancel
+;
+MSG_ERROR_ALLOCATE
+Nie mo¿na zaalokowaæ struktury Req\n
+; Can't allocate struct Req\n
+;
+MSG_ERROR_RETURN
+\"%s\" nie powiod³o siê, kod powrotu %ld\n
+; \"%s\" failed, return code %ld\n
+;
+MSG_ERROR_POOL
+Nie mo¿na utworzyæ puli pamiêci\n
+; Can't create poolmem\n
+;
+MSG_ERROR_STRUCT
+Nie mo¿na zaalokowaæ struktury Req\n
+; Can't allocate struct Req\n
+;
+MSG_ERROR_ARGS
+Nie uda³o siê przetworzyæ argumentów\n
+; Failed to parse arguments\n
+;
+MSG_ERROR_NOTFOUND
+Nie znaleziono polecenia\n
+; Command not found\n
+;
+MSG_ERROR_TMPLT_GET
+Nie uda³o siê pobraæ szablonu\n
+; Failed to get template\n
+;
+MSG_ERROR_TMPLT_PARSE
+Nie uda³o siê przetworzyæ szablonu\n
+; Failed to parse the template\n
+;
+MSG_ERROR_GUI
+Nie uda³o siê utworzyæ obiektu aplikacji\n
+; Failed to create application object\n
+;
+MSG_ERROR_DEFAULTS
+Nie uda³o siê ustawiæ warto¶ci domy¶lnych\n
+; Failed to set the default values\n
+;

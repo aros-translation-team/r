@@ -1,0 +1,64 @@
+## version $VER: R.catalog 2.0 (06.08.2026)
+## language hrvatski
+## codeset 5
+;
+MSG_APP_TITLE
+R
+; R
+;
+MSG_APP_DESCRIPTION
+Generator GUI-ja
+; GUI Generator
+;
+MSG_WIN_TITLE
+R : %s
+; R : %s
+;
+MSG_OK
+U redu
+; OK
+;
+MSG_CANCEL
+Odustani
+; Cancel
+;
+MSG_ERROR_ALLOCATE
+Ne mogu alocirati struct Req\n
+; Can't allocate struct Req\n
+;
+MSG_ERROR_RETURN
+\"%s\" nije uspjelo, povratni kod %ld\n
+; \"%s\" failed, return code %ld\n
+;
+MSG_ERROR_POOL
+Ne mogu stvoriti poolmem\n
+; Can't create poolmem\n
+;
+MSG_ERROR_STRUCT
+Ne mogu alocirati struct Req\n
+; Can't allocate struct Req\n
+;
+MSG_ERROR_ARGS
+Neuspjela obrada argumenata\n
+; Failed to parse arguments\n
+;
+MSG_ERROR_NOTFOUND
+Naredba nije pronaðena\n
+; Command not found\n
+;
+MSG_ERROR_TMPLT_GET
+Neuspjelo dohvaæanje predlo¹ka\n
+; Failed to get template\n
+;
+MSG_ERROR_TMPLT_PARSE
+Neuspjela obrada predlo¹ka\n
+; Failed to parse the template\n
+;
+MSG_ERROR_GUI
+Neuspjelo stvaranje objekta aplikacije\n
+; Failed to create application object\n
+;
+MSG_ERROR_DEFAULTS
+Neuspjelo postavljanje predlo¾enih vrijednosti\n
+; Failed to set the default values\n
+;

@@ -1,0 +1,64 @@
+## version $VER: R.catalog 2.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+MSG_APP_TITLE
+R
+; R
+;
+MSG_APP_DESCRIPTION
+Arayüz Oluþturucu
+; GUI Generator
+;
+MSG_WIN_TITLE
+R : %s
+; R : %s
+;
+MSG_OK
+TAMAM
+; OK
+;
+MSG_CANCEL
+Vazgeç
+; Cancel
+;
+MSG_ERROR_ALLOCATE
+struct Req ayrýlamýyor\n
+; Can't allocate struct Req\n
+;
+MSG_ERROR_RETURN
+\"%s\" baþarýsýz oldu, dönüþ kodu %ld\n
+; \"%s\" failed, return code %ld\n
+;
+MSG_ERROR_POOL
+poolmem oluþturulamýyor\n
+; Can't create poolmem\n
+;
+MSG_ERROR_STRUCT
+struct Req ayrýlamýyor\n
+; Can't allocate struct Req\n
+;
+MSG_ERROR_ARGS
+Argümanlar ayrýþtýrýlamadý\n
+; Failed to parse arguments\n
+;
+MSG_ERROR_NOTFOUND
+Komut bulunamadý\n
+; Command not found\n
+;
+MSG_ERROR_TMPLT_GET
+Þablon alýnamadý\n
+; Failed to get template\n
+;
+MSG_ERROR_TMPLT_PARSE
+Þablon ayrýþtýrýlamadý\n
+; Failed to parse the template\n
+;
+MSG_ERROR_GUI
+Uygulama nesnesi oluþturulamadý\n
+; Failed to create application object\n
+;
+MSG_ERROR_DEFAULTS
+Varsayýlan deðerler ayarlanamadý\n
+; Failed to set the default values\n
+;

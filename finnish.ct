@@ -1,0 +1,64 @@
+## version $VER: R.catalog 2.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_APP_TITLE
+R
+; R
+;
+MSG_APP_DESCRIPTION
+Käyttöliittymägeneraattori
+; GUI Generator
+;
+MSG_WIN_TITLE
+R : %s
+; R : %s
+;
+MSG_OK
+Hyväksy
+; OK
+;
+MSG_CANCEL
+Peru
+; Cancel
+;
+MSG_ERROR_ALLOCATE
+Ei voitu varata struct Req -rakennetta\n
+; Can't allocate struct Req\n
+;
+MSG_ERROR_RETURN
+\"%s\" epäonnistui, paluukoodi %ld\n
+; \"%s\" failed, return code %ld\n
+;
+MSG_ERROR_POOL
+Muistivarantoa ei voitu luoda\n
+; Can't create poolmem\n
+;
+MSG_ERROR_STRUCT
+Ei voitu varata struct Req -rakennetta\n
+; Can't allocate struct Req\n
+;
+MSG_ERROR_ARGS
+Argumenttien jäsennys epäonnistui\n
+; Failed to parse arguments\n
+;
+MSG_ERROR_NOTFOUND
+Komentoa ei löytynyt\n
+; Command not found\n
+;
+MSG_ERROR_TMPLT_GET
+Mallin haku epäonnistui\n
+; Failed to get template\n
+;
+MSG_ERROR_TMPLT_PARSE
+Mallin jäsennys epäonnistui\n
+; Failed to parse the template\n
+;
+MSG_ERROR_GUI
+Sovellusolion luonti epäonnistui\n
+; Failed to create application object\n
+;
+MSG_ERROR_DEFAULTS
+Oletusarvojen asettaminen epäonnistui\n
+; Failed to set the default values\n
+;
